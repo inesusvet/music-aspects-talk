@@ -11,9 +11,11 @@ Let's imagine that we could split a developer's work into equal parts. Which
 parts would it be?
 
 +++
-### Notes
+### ~Start with~ Notes
 Seems like it's absolutely necessary to know how to read through the language
 beforehand. But sometimes even "wrong code" is a better place than no code at all.
+
+![Libertango](https://github.com/inesusvet/music-talk/raw/master/assets/libertango.png)
 
 +++
 ### Articulation & Duration
@@ -44,9 +46,12 @@ better harmony.
 
 +++
 ### Groove
+How joyful developer's work can be?
+How often it happens so?
+What can lead to joyful workday?
 
 ---
-### Referrals
+### Reference
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3yRMbH36HRE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
