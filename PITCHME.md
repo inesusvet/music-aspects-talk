@@ -54,7 +54,7 @@ better harmony.
 ## Thank you!
 
 Spread the word
-`gitpitch.com/inesusvet/music-aspects-talk`
+`gitpitch.com/inesusvet/music-talk`
 
 ivan.styazhkin@datarobot.com
 
