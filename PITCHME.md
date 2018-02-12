@@ -11,16 +11,26 @@ Let's imagine that we could split a developer's work into equal parts. Which
 parts would it be?
 
 +++
-### ~Start with~ Notes
+### Notes
+> Sometimes even the _right_ notes can sound wrong.
+But applying chromatic scales and playing within the musical context can make
+“wrong” notes sound right.
+
 Seems like it's absolutely necessary to know how to read through the language
 beforehand. But sometimes even "wrong code" is a better place than no code at all.
 
++++
 ![Libertango](https://github.com/inesusvet/music-talk/raw/master/assets/libertango.png)
 
 +++
 ### Articulation & Duration
-We can express our ideas in a bunch of different ways and how to use different
+> How changes in articulation can affect the feel and help create a more
+professional sound.
+
+We can express our ideas in a bunch of different ways and use different
 approaches to get better results.
+
+Object-oriented, functional, cooperate multitasking, multiprocessing etc
 
 +++
 ### Dynamics
@@ -28,24 +38,34 @@ approaches to get better results.
 
 +++
 ### Rhythm & Tempo
+> Victor’s suggested rhythmic exercises along with the creative use
+of metronomes and drum machines will improve a player’s sense of time.
 
 +++
 ### Tone
+> Understanding the role of tone quality and how to adjust it for different situations.
 
 +++
 ### Phrasing
+> Utilizing singing, breathing and imagination to create more natural, more musical phrases.
+
 And the composition. Think about it. It combines different parts into one piece.
 I believe that those parts and it's relations could be clearly outlined for
 better harmony.
 
 +++
 ### Space & Rest
+> A discussion and demonstration of why space is such an integral part of playing music.
 
 +++
 ### Listening
+> Learning to trust your ears and why listening may well be the most essential aspect of playing music.
 
 +++
 ### Groove
+> Why feel and emotion are important in music and an explanation of
+the elements that need to be present for a good groove to happen
+
 How joyful developer's work can be?
 How often it happens so?
 What can lead to joyful workday?
