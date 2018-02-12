@@ -14,9 +14,8 @@ Which parts would it be?
 > Why feel and emotion are important in music and an explanation of
 the elements that need to be present for a good groove to happen
 
-How joyful developer's work can be?
-How often it happens so?
-What can lead to joyful workday?
+How joyful developer's work can be? Why it is important?
+How often it happens to you? What can lead to truly joyful day?
 
 ---
 ### Notes
@@ -38,16 +37,16 @@ professional sound.
 We can express our ideas in a bunch of different ways and use different
 approaches to get better results.
 
-Object-oriented, functional, cooperate multitasking, multiprocessing etc
+Object-oriented paradigm, functional, declarative, parallel computing, event-driven etc
 
 ---
 ### Dynamics
-"How to use dynamics to connect with your audience"
+> How to use dynamics to connect with your audience
 
 ---
 ### Rhythm & Tempo
-> Victor’s suggested rhythmic exercises along with the creative use
-of metronomes and drum machines will improve a player’s sense of time.
+> How to improve a player’s sense of time by rhythmic exercises along with the
+creative use of metronomes and drum machines.
 
 ---
 ### Tone
