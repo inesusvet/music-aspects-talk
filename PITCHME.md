@@ -51,13 +51,11 @@ better cohesion.
 
 ---
 ### Space & Rest
-> A discussion and demonstration of why space is such an integral part of playing music.
 
 Can you stop for a minute? For a day? Do you have slack time to come up with new ideas?
 
 ---
 ### Listening
-> Learning to trust your ears and why listening may well be the most essential aspect of playing music.
 
 Are you listening to you self and to your colleagues? Are you patient enough?
 What have you learned from them? What can you give to them?
