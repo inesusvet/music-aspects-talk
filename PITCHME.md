@@ -17,20 +17,13 @@ Which parts would it be?
 
 ---
 ### Notes
-> Sometimes even the _right_ notes can sound wrong.
-But applying chromatic scales and playing within the musical context can make
-“wrong” notes sound right.
 
 Seems like it's absolutely necessary to know how to read through the language
-beforehand. But sometimes even "wrong code" is a better place than no code at all.
-
-+++
-![Libertango](https://github.com/inesusvet/music-talk/raw/master/assets/libertango.png)
+beforehand. But sometimes it's easier to understand something by playing with it.
+Even "wrong code" is a better place than no code at all.
 
 ---
 ### Articulation & Duration
-> How changes in articulation can affect the feel and help create a more
-professional sound.
 
 We can express our ideas in a bunch of different ways and use different
 approaches to get better results.
@@ -39,40 +32,35 @@ Object-oriented paradigm, functional, declarative, parallel computing, event-dri
 
 ---
 ### Dynamics
-> How to use dynamics to connect with your audience
 
 Software project development has it's own phases and it's own ebbs & tides.
 Also there are many researches on group dynamics related to teams.
 
 ---
-### Rhythm & Tempo
-> How to improve a player’s sense of time by rhythmic exercises along with the
-creative use of metronomes and drum machines.
-
----
 ### Tone
-> Understanding the role of tone quality and how to adjust it for different situations.
+
+We could use only "right" data structures and algorithms to express our ideas.
+But we see that "dirty way" shows good results too.
 
 ---
 ### Phrasing
-> Utilizing singing, breathing and imagination to create more natural, more musical phrases.
 
 Which parts we want to join into one piece? In which order?
 I believe that those parts and it's relations could be clearly outlined for
-better harmony.
+better cohesion.
 
 ---
 ### Space & Rest
 > A discussion and demonstration of why space is such an integral part of playing music.
 
-Can you stop for a day? Do you have slack time to come up with new ideas?
+Can you stop for a minute? For a day? Do you have slack time to come up with new ideas?
 
 ---
 ### Listening
 > Learning to trust your ears and why listening may well be the most essential aspect of playing music.
 
-Are you listening to your colleagues? Are you patient enough?
-What have you learned from them? What can you give?
+Are you listening to you self and to your colleagues? Are you patient enough?
+What have you learned from them? What can you give to them?
 
 ---
 ### Music is a language
