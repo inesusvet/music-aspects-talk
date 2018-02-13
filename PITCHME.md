@@ -4,8 +4,6 @@
 
 +++
 ### Groove
-> Why feel and emotion are important in music and an explanation of
-the elements that need to be present for a good groove to happen
 
 How joyful your work can be? Why it is important?
 How often do you have such a joy? What can lead to truly joyful work day?
